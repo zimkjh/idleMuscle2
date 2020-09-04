@@ -1,0 +1,32 @@
+# =============== #
+# Unity generated # 
+# =============== #
+
+Temp/
+Obj/
+UnityGenerated/
+Library/
+  
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# =========== #
+# Added by me #
+# =========== #
+.vscode
