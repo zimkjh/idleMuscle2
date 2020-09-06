@@ -30,3 +30,4 @@ ExportedObj/
 # Added by me #
 # =========== #
 .vscode
+.DS_Store
